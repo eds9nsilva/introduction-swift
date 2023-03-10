@@ -1,0 +1,105 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:IntroducaoSwift_Sources-PLAYGROUND-TARGET:/Users/edson/Desktop/Projetos/Introdução Swift/IntroducaoSwift.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.1",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Build/Products",
+          "derivedDataPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad6,4",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Build/Intermediates.noindex/Playgrounds/IntroducaoSwift/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Build/Intermediates.noindex/Playgrounds/IntroducaoSwift/Intermediates.noindex",
+              "SYMROOT" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Build/Intermediates.noindex/Playgrounds/IntroducaoSwift/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "4892E513-F0D9-468B-8999-F0DAD49EC442",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "16.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/IntroducaoSwift.playground",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Build/Products",
+      "derivedDataPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/edson/Desktop/Projetos/Introdução Swift/DerivedData/IntroducaoSwift/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad6,4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "4892E513-F0D9-468B-8999-F0DAD49EC442",
+          "TARGET_DEVICE_MODEL" : "iPad6,4",
+          "TARGET_DEVICE_OS_VERSION" : "16.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

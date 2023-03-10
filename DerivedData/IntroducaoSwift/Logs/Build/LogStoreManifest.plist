@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>30ED0E35-8438-45C3-92BA-CC3593278215</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30ED0E35-8438-45C3-92BA-CC3593278215.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IntroducaoSwift</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IntroducaoSwift (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build IntroducaoSwift (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>700106736.33711398</real>
+			<key>timeStoppedRecording</key>
+			<real>700106736.48412895</real>
+			<key>title</key>
+			<string>Build IntroducaoSwift (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>30ED0E35-8438-45C3-92BA-CC3593278215</string>
+		</dict>
+		<key>86ACA551-6384-4172-82BF-E2C077911CD2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86ACA551-6384-4172-82BF-E2C077911CD2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IntroducaoSwift</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IntroducaoSwift (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build IntroducaoSwift (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>700105302.00063503</real>
+			<key>timeStoppedRecording</key>
+			<real>700105304.56353402</real>
+			<key>title</key>
+			<string>Build IntroducaoSwift (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>86ACA551-6384-4172-82BF-E2C077911CD2</string>
+		</dict>
+		<key>BF882539-7870-4D20-8FAA-421515938CD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF882539-7870-4D20-8FAA-421515938CD4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IntroducaoSwift</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IntroducaoSwift (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build IntroducaoSwift (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>700105412.88499105</real>
+			<key>timeStoppedRecording</key>
+			<real>700105413.288818</real>
+			<key>title</key>
+			<string>Build IntroducaoSwift (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>BF882539-7870-4D20-8FAA-421515938CD4</string>
+		</dict>
+		<key>DD270A2F-BF5D-4ADC-A521-45AE70B4F41E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DD270A2F-BF5D-4ADC-A521-45AE70B4F41E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IntroducaoSwift</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IntroducaoSwift (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build IntroducaoSwift (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>700105430.01369798</real>
+			<key>timeStoppedRecording</key>
+			<real>700105430.065184</real>
+			<key>title</key>
+			<string>Build IntroducaoSwift (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>DD270A2F-BF5D-4ADC-A521-45AE70B4F41E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
